@@ -9,10 +9,10 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+title: timeline
+description: "Utilisation du basic template for self-hosted TimelineJS"
+year: 2023
+author: Antony Le Goïc-Auffret D'après evan will 
 # add search box to navbar, true/false
 search: false
 
